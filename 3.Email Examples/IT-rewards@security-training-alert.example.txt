@@ -1,0 +1,24 @@
+From: it-rewards@security-training-alert.example
+
+To: staffmember@examplemail.example
+
+Subject: Congratulations – Phishing Awareness Test Passed
+
+Dear Employee
+
+Congratulations!!
+
+You have successfully passed the recent company phishing awareness test conducted by the IT Security team.
+
+As part of our security awareness programme employees who pass the assessment are eligible to claim a small reward!
+
+Please confirm your employee account and select your reward using the secure portal below!
+
+Claim your reward:
+http://bit.ly/company-security-reward.example
+
+This reward must be claimed within 24 hours or the offer will expire!!!
+
+Thank you for helping keep our organisation secure.
+
+IT Security Training Team

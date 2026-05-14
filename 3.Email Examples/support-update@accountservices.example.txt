@@ -1,0 +1,16 @@
+From: support-update@accountservices.example
+
+To: usermail@examplemail.example
+
+Subject: Confirm Your Account Details
+
+Dear User,
+
+Please confirm your account details to avoid delays with your recent request.
+
+Use the secure account portal to review your information!
+
+http://SecureAccountPortal.example
+
+Regards,
+Account Support Team

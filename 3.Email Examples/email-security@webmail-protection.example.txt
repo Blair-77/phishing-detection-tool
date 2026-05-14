@@ -1,0 +1,15 @@
+From: email-security@webmail-protection.example
+
+To: staffmember@examplemail.example
+
+Subject: Action Required! Mailbox Access Review
+
+Dear Student
+
+Your mailbox has reached its quota limits and access may be restricted unless you sign in and confirm your account details immediately.
+
+Please use the link below to complete the security review!
+
+http://bit.ly/mailbox-access-review.example.example
+
+IT Services

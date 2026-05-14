@@ -1,0 +1,18 @@
+From: library.services@college.example
+
+To: student@campusmail.example
+
+Subject: Reminder, Library Book Return Due This Monday
+
+Hello Alex,
+
+This is a reminder that your borrowed library book is due for return this Monday.
+
+You can view your current loans and renewal dates through the library portal:
+
+https://LibraryPortal.example
+
+If you have already returned the item, please ignore this message.
+
+Kind regards,
+Library Services

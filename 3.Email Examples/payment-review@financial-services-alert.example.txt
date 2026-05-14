@@ -1,0 +1,20 @@
+From: payment-review@financial-services-alert.example
+
+To: customer@examplemail.example
+
+Subject: Payment Verification Required
+
+Dear User,
+
+Our billing system has flagged a recent transaction on your account for review.
+
+To prevent cancellation of your payment and avoid service interruption, please confirm your billing details and verify your account information.
+
+Access the billing review portal below:
+
+http://secure.billing-check.payment-review.xyz@192.168.14.20/verify.example
+
+Failure to complete verification within 12 hours may result in cancellation of your pending payment!
+
+Thank you,
+Financial Services Review Team

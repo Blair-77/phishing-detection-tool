@@ -1,0 +1,16 @@
+From: hr-documents@company.example
+
+To: employee@company.example
+
+Subject: Updated Payroll Information Required
+
+Hello
+
+As part of our yearly payroll review, we need employees to verify their contact information and review the attached payroll information document.
+
+Please download the attached file: Payroll_Update_Form.pdf and confirm that your details are correct before Friday!
+
+If any changes are needed for payment details or banking information, please reply to this email or contact the HR team directly.
+
+Thank you
+Human Resources Department

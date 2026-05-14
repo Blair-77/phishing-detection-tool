@@ -1,0 +1,19 @@
+From: training@company-learning.example
+
+To: staff@company.example
+
+Subject: Optional Cyber Security Awareness Training Session
+
+Hello,
+
+An optional cyber security awareness training session will be held next Wednesday at 14:00 in Meeting Room C.
+
+The session will cover common phishing techniques and how to report suspicious emails.
+
+You can view the session outline here:
+http://CyberSecurityTrainning.example 
+
+Attendance is optional but recommended.
+
+Kind regards,
+Employee Training Team

@@ -1,0 +1,19 @@
+From: events@university-services.example
+
+To: student@campusmail.example
+
+Subject: Reminder Campus Careers Workshop Tomorrow
+
+Hello Student
+
+This is a reminder that the Campus Careers Workshop will take place tomorrow at 13:00 in the Student Services Building.
+
+The workshop will cover internship opportunities, CV preparation and interview skills.
+
+You can view the full schedule here:
+http://careers.university-services.example/events/workshop.example
+
+We hope to see you there
+
+Best regards
+University Careers Team

@@ -1,0 +1,18 @@
+From: facilities@officebuilding.example
+
+To: tenants@office.example
+
+Subject: Planned Water Maintenance, Tuesday 09:00 to 11:00
+
+Hello
+
+This is a notice that planned water maintenance will take place on Tuesday between 09:00 and 11:00 in the main office building.
+
+During this time, access to kitchen and washroom facilities may be briefly interrupted.
+
+Please contact the facilities team if you have any questions.
+
+http://facilities-team.example
+
+Best regards
+Facilities Management Team

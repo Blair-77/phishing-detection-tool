@@ -1,0 +1,14 @@
+From: billing-notice@streaming-renewals.example
+
+To: customer@examplemail.example
+
+Subject: Final Notice, Subscription Payment Failed!
+
+Dear Customer
+
+We were unable to process your latest subscription payment due to a billing issue.
+
+To avoid service interruption, please update your payment details immediately.
+
+Thank you
+Billing Department

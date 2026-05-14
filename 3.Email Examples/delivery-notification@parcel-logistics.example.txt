@@ -1,0 +1,18 @@
+From: delivery-notification@parcel-logistics.example
+
+To: Brian@examplemail.co.example
+
+Subject: Delivery Attempt Failed, Address Verification Required!
+
+Dear Customer
+
+We attempted to deliver your parcel today but were unable to complete the delivery due to an address verification issue.
+
+Please confirm your delivery details immediately to schedule a new delivery time.
+
+Confirm address:
+http://delivery.confirm.account./login.example
+
+If the information is not verified within 24 hours the parcel may be returned to the sender!
+
+Parcel Delivery Service

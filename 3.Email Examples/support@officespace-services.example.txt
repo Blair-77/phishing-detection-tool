@@ -1,0 +1,17 @@
+From: support@officespace-services.example
+
+To: D.Darrel@freemail.com.example
+
+Subject: Issue with Rented Office Space
+
+Hello Melissa,
+
+Thank you for contacting us regarding the water leak in your rented office space.
+
+Our maintenance team has been notified and will inspect the issue within the next 24 hours. If necessary, we will arrange a temporary relocation while repairs are completed.
+
+If you have any further information or photos that may help our team, please reply to this email.
+
+Kind regards,
+Customer Support
+OfficeSpace Services

@@ -1,0 +1,19 @@
+From: customs-fees@international-shipping.example
+
+To: Darren2Davies@hotmail.co.example2
+
+Subject: Customs Charge Pending! Parcel Release Required
+
+Dear Customer
+
+Your parcel is currently being held at our international sorting facility due to an unpaid customs processing fee.
+
+To avoid further delays and release your package for delivery, please complete the customs payment using the secure portal below
+
+Pay customs fee now:
+http://customs.release.payment-check.xyz@172.16.22.45/pay.example
+
+Failure to complete payment within 6 hours may result in the parcel being returned or destroyed!
+
+Thank you
+International Shipping Customs Team

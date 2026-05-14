@@ -1,0 +1,21 @@
+From: account-security@secure-login-review.example
+
+To: user@examplemail.example
+
+Subject: Urgent Security Notice, Verify Your Login Activity
+
+Dear Customer
+
+We detected unusual sign in activity on your account from a new location.
+
+For security reasons your account access may be temporarily restricted unless you verify your login details immediately!
+
+Please confirm your account and review the activity using the secure link below
+
+Verify account:
+https://login.security.verify-account-update.review/confirm.example
+
+If this request is not completed within 24 hours your account may be suspended!
+
+Regards
+Account Security Team

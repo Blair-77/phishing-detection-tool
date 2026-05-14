@@ -1,0 +1,18 @@
+From: IT-maintenance@company-support.example
+
+To: staff@company.example
+
+Subject: Scheduled System Maintenance – Saturday 02:00–04:00
+
+Hello,
+
+This is a notice that scheduled maintenance will take place on the company email and network systems this Saturday between 02:00 and 04:00.
+
+During this period, some services such as VPN access and internal email may be temporarily unavailable.
+
+If you experience any issues after the maintenance window please contact the IT support team
+
+IT Support contact: ITSupport@.example
+
+Kind regards
+IT Infrastructure Team

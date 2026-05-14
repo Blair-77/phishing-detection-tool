@@ -1,0 +1,19 @@
+From: document-review@secure-fileshare-alert.example
+
+To: Timmithy@examplemail.example
+
+Subject: Shared Document Waiting for Review
+
+Dear User
+
+A document has been shared with you and is waiting for your review.
+
+To view the file please sign in to the secure document portal and confirm your account details below!
+
+Open the document here:
+https://bit.ly/secure-document-review.example
+
+If the document is not accessed within 24 hours, the file may expire and access will be removed!
+
+Regards
+Secure FileShare Team

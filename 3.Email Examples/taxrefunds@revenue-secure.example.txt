@@ -1,0 +1,18 @@
+From: taxrefunds@revenue-secure.example
+
+To: useraccount@examplemail.example
+
+Subject: Final Notice! Tax Refund Pending, Confirm Immediately
+
+Dear User,
+
+A tax refund of £486.22 is waiting to be processed but your account has been locked due to failed verification.
+
+To release your refund, please confirm your banking information and reset your account credentials immediately using the link below!
+
+Claim refund: https://secure.refund.confirm.account.billing.review.click/reset-login.example
+
+Failure to act within 12 hours may result in refund cancellation and permanent closure of your account!
+
+Sincerely,
+Revenue Support Department

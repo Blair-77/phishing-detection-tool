@@ -1,0 +1,20 @@
+From: fraud-prevention@secure-banking-alert.example
+
+To: accountuser@personalmail.example
+
+Subject: Final Notice Unauthorised Transactions Detected!
+
+Dear User
+
+Our fraud monitoring system has detected unusual activity and unauthorized transactions on your banking account.
+
+Your account will remain locked unless you confirm your banking information and reset your password immediately!
+
+Security verification required!
+
+https://secure.verify.login.bank.review.update.click/confirm-account.example
+
+Failure to act within 24 hours may result in permanent account closure and cancellation of pending transactions!
+
+Sincerely
+Fraud Prevention Team

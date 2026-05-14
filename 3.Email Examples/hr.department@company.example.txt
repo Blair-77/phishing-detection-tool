@@ -1,0 +1,18 @@
+From: hr.department@company.example
+
+To: staff
+
+Subject: Reminder Team Meeting Tomorrow at 09:30
+
+Hello everyone,
+
+This is a reminder that the monthly team meeting will take place tomorrow at 09:30 in Conference Room B.
+
+The meeting agenda can be accessed here:
+
+https://TeamMeeting.example
+
+Please bring any project updates you would like to discuss.
+
+Kind regards
+HR Department

@@ -1,0 +1,14 @@
+From: service-alert@membership-help.example
+
+To: member@examplemail.example
+
+Subject: Security Check Required!
+
+Dear Customer,
+
+We noticed unusual activity linked to your account and need you to verify your identity.
+
+Please reply with your reviewed account information as soon as possible to verify!
+
+Thank you,
+Membership Services

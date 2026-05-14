@@ -1,0 +1,15 @@
+From: IT-ServiceDesk@University.example
+
+To: student
+
+Subject: Action Required, Student Mailbox Exceeding Quota
+
+Dear Student
+
+Your student mailbox is over quota limit and will be suspended unless you confirm your account details. Please sign in with your university credentials to avoid service interruption!!
+
+Confirm account: https://stdent-details-tranfer.example
+
+This is an automated notification  do not reply to this email!
+
+IT Services

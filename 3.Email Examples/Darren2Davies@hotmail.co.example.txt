@@ -1,0 +1,17 @@
+From: support@netbank-security.example
+
+To: Darren2Davies@hotmail.co.example
+
+Subject: Urgent: Your Account Has Been Temporarily Locked
+
+Dear Darren
+
+We have detected unusual activity on your Bank account and have temporarily locked access to protect you. To restore your account please verify your identity immediately by clicking the link below and following the instructions!
+
+Verify now: https://examplesupport.link.example
+
+If you do not verify within 24 hours, your account will remain locked and transactions will be cancelled!
+
+Sincerely
+Bank Security Team
+

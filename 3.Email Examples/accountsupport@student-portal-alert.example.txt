@@ -1,0 +1,20 @@
+From: accountsupport@student-portal-alert.example
+
+To: student@campusmail.example
+
+Subject: Action Required, Student Account Disabled! Verify and Pay Outstanding Charge
+
+Dear Student
+
+Your university account has been disabled after suspicious activity was detected on your mailbox and payment profile.
+
+To avoid service interruption, loss of email access and cancellation of your student payment plan! you must sign in and verify your account immediately.
+
+Use the link below to confirm your identity and update your account payment details
+
+Confirm account: http://bit.ly/student-verify-payment.example
+
+If this request is not completed within 24 hours, your account will remain disabled and your pending charges may increase.
+
+Regards
+University IT Billing Office

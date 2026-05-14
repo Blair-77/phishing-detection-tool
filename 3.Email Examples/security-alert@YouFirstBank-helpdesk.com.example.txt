@@ -1,0 +1,18 @@
+From: security-alert@YouFirstBank-helpdesk.com.example
+
+To: staffmember@company.example
+
+Subject: Security Alert, Password Reset Required
+
+Dear Employee,
+
+A suspicious login attempt has been detected on your company mailbox.
+
+For security reasons your email account may be disabled unless you reset your password and verify your identity!
+
+Please sign in and confirm your account using the secure link below!
+
+Reset password: http://bit.ly/company-security-reset.example
+
+Thank you,
+IT Security Team

@@ -1,0 +1,19 @@
+From: refunds@claims-review.example
+
+To: accountuser@examplemail.example
+
+Subject: Final Warning, Refund Verification Required!
+
+Dear User,
+
+A refund is waiting to be processed, but your account has been temporarily locked due to failed verification checks.
+
+To release the payment, please confirm your banking information immediately and review the attached document Refund_Claim_Form.docx.example!
+
+Claim refund here:
+https://secure.refund.confirm.account.billing.review.click/reset-login.example
+
+Failure to act within 24 hours may result in permanent closure of your account and cancellation of your refund!
+
+Sincerely,
+Claims Review Team

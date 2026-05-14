@@ -1,0 +1,19 @@
+From: payroll-alert@finance-security.example
+
+To: employee@companymail.example
+
+Subject: Urgent, Payroll Account Suspended; Immediate Verification Required
+
+Dear Customer,
+
+We have detected unusual activity on your payroll account and it has been temporarily suspended for security reasons.
+
+To restore access and avoid delayed salary payment, you must verify your account details and sign in immediately using the secure link below!
+
+Verify payroll now:
+http://secure.payroll.verify.account-update.xyz@192.168.14.22/login.example
+
+If this action is not completed within 12 hours your wages, payment transactions and salary records may be cancelled!
+
+Regards,
+Payroll Security Department

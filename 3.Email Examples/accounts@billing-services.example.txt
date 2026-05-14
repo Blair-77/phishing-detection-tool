@@ -1,0 +1,16 @@
+From: accounts@billing-services.example
+
+To: officeadmin@examplemail.example
+
+Subject: Invoice #48912 – Outstanding Payment
+
+Hello
+
+Please review the attached invoice for services provided this month.
+
+The payment is now overdue and must be processed as soon as possible to avoid additional charges.
+
+Invoice attached: Invoice_48912.pdf
+
+Thank you
+Accounts Department

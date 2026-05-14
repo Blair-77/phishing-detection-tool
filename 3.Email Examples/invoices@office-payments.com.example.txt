@@ -1,0 +1,14 @@
+From: invoices@office-payments.example
+
+To: BethMcguire@gmail.example
+
+Subject: Invoice #78420, Immediate Payment Required!
+
+Hello
+
+Please find attached the invoice for services rendered in October. Payment is overdue, Download the attached invoice and submit payment to avoid late fees!
+
+Invoice: Invoice_78420.example.pdf (attached)
+
+Thank you
+Accounts Receivable
