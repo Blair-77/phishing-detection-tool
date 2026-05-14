@@ -1,4 +1,5 @@
 Scam & Phishing Detection Tool – Artefact & Dissertation Paper
+
 Blair Davidson: 2202504
 
 How to run the tool:
